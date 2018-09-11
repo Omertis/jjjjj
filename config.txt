@@ -1,4 +1,4 @@
-token=NDg5MDczMDMyMTU3OTg2ODE2.Dnlcag.BJGSuG6oEj6ChizwjWR6f_WBxA8
+token=process.env.BOT_TOKEN
 owner=382293804671172620 
 prefix=d
 game=MM
